@@ -1,0 +1,4 @@
+---
+
+- name: install modsecurity module
+  yum: pkg={{ nginx_modsecurity_rpm }} state=present

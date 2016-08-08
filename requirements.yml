@@ -1,0 +1,4 @@
+---
+
+- src: mkubenka.epel
+- src: mkubenka.nginx
